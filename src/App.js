@@ -57,7 +57,7 @@ function App() {
     setPickedCategory(category);
     setPicketWord(word);
     setLetters(wordLetter);
-    setGameStage(stages[1].name);
+    setGameStage(stages[0].name);
   }, [pickWordAndCategory]);
   //Processar as palavras do input
   const verifyLetter = (letter) => {
