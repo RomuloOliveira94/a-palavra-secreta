@@ -1,4 +1,4 @@
-A palavra secreta.
+<h1>A palavra secreta.</h1>
 
 Web game, feito com react.js.
 
